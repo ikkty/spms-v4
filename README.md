@@ -8,6 +8,9 @@ The system allows faculty members to record grades, and other academic data in r
 3. Bootstrap 4
 4. Google Charts
 
+# How to run
+Import spmsv4_core(2).sql file from the Database files folder
+
 # Login Credentials
 Student
 + ID: 1531176
