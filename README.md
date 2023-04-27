@@ -34,6 +34,8 @@ Faculty
 + Ikkty Rahman
 + Maha Murshed
 + SK Sadia Tasnim Elma
-+ Bushra Jahangir
 + Noorjahan Sayeed
++ Sumaya
++ Bushra Jahangir
+
 
