@@ -14,7 +14,7 @@ Overall, the Student Performance Monitoring System is an essential tool for any 
 
 # Depedencies
 1. PHP (Version 7.1)
-2. dompdf (2.0.3)
+2. dompdf (Version 2.0.3)
 3. Bootstrap 4
 4. Google Charts
 
