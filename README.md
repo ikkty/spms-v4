@@ -14,6 +14,7 @@ Student
 + Password: 12345
 + ID: 1910876
 + Password: 12345
+
 Faculty
 + ID: 4408
 + Password: 12345
