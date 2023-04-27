@@ -7,16 +7,28 @@ The Student Performance Monitoring System also features a range of tools to supp
 
 Overall, the Student Performance Monitoring System is an essential tool for any educational institution seeking to improve student outcomes and drive academic success.
 
-# Webpage
-
-![Faculty Dashboard](img/faculty_dashboard.png)
-
-
 # Depedencies
 1. PHP (Version 7.1)
 2. dompdf (Version 2.0.3)
 3. Bootstrap 4
 4. Google Charts
+
+# Login Credentials
+Student
++ ID: 1531176
++ Password: 12345
++ ID: 1910876
++ Password: 12345
+Faculty
++ ID: 4408
++ Password: 12345
++ ID: 2259
++ Password: 12345
+
+# Webpage
+
+![Faculty Dashboard](img/faculty_dashboard.png)
+
 
 # Contributors
 + Ikkty Rahman
@@ -24,3 +36,4 @@ Overall, the Student Performance Monitoring System is an essential tool for any 
 + SK Sadia Tasnim Elma
 + Bushra Jahangir
 + Noorjahan Sayeed
+
