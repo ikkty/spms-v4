@@ -10,6 +10,6 @@ Overall, the Student Performance Monitoring System is an essential tool for any 
 # Contributors
 + Ikkty Rahman
 + Maha Murshed
-+ SK Sadia Elma
++ SK Sadia Tasnim Elma
 + Bushra Jahangir
 + Noorjahan Sayeed
